@@ -14,7 +14,7 @@ Along with searching for your favorite recipes, users will be able to enter in t
 
 ## Take a look and give it a try yourself!
 
-[Recipe-Roundup website](https://thomasnguyen546.github.io/Recipe-Finder/)
+[Recipe-Roundup website](https://sfoutz0205.github.io/Recipe-Finder/)
 
 ## Screenshots of Deployed Application
 
